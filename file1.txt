@@ -1,4 +1,11 @@
 this is my first project
 for practice purpose
-this is my new git project
-hello everyone i am manjula
+<<<<<<< HEAD
+
+
+=======
+here i am adding new line in file1
+hello
+gud mrng
+what are you doing now
+>>>>>>> e39f8b8f66b3e6e5f22a2cb2cf393c1eebcf76b8
