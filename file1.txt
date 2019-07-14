@@ -1,2 +1,6 @@
 this is my first project
 for practice purpose
+here i am adding new line in file1
+hello
+gud mrng
+what are you doing now
